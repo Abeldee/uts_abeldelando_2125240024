@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "889258359516",
+    "firebase_url": "https://uts-abel-default-rtdb.firebaseio.com",
+    "project_id": "uts-abel",
+    "storage_bucket": "uts-abel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889258359516:android:ee77deb119968c4b2b9219",
+        "android_client_info": {
+          "package_name": "com.example.uts_abeldelando_2125240024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbUOYBeRcc14PRwv4Ddf3h4VAxSpvu-t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
